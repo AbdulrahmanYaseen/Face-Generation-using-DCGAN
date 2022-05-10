@@ -6,4 +6,4 @@ The project is broken down into sections, starting from loading in data to defin
 
 ## Training Data
 
-I'll be using the CelebFaces Attributes Dataset (CelebA) to train my adversarial networks.
+I'll be using the [CelebFaces Attributes Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) (CelebA) to train my adversarial networks.
